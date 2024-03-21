@@ -3,7 +3,7 @@
 
 <h2>QUAL O OBJETIVO?</h2>
 <h3>Esse site tem com o intuito para que as pessoas possam conhecer mais sobre o anime Black Clover, 
-  com o foco principalmente nos Touros Negros.
+  com o foco principalmente no esquadrão dos Touros Negros.
 </h3>
 
 <h2>LINGUAGENS UTILIZADAS</h2>
