@@ -1,3 +1,8 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 img {
     width: 474px;
     height: 266px;
@@ -10,4 +15,9 @@ img {
 
 h1 {
     background-color: rgb(30, 90, 72);
+}
+
+
+body{
+    background-color: rgb(81, 136, 81);
 }
