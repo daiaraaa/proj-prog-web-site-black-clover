@@ -3,7 +3,7 @@
     padding:0;
 }
 
-img {
+img{
     width: 474px;
     height: 266px;
 }
@@ -13,10 +13,10 @@ img {
     height: 392px;
 }
 
-h1 {
+
+h1{
     background-color: rgb(30, 90, 72);
 }
-
 
 body{
     background-color: black;
